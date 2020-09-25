@@ -23,3 +23,9 @@ TestHostApp.app (24168) encountered an error (Failed to load the test bundle. (U
 
 2. If Step #5 is done after a successful run on simulator, the test status in the navigator still appears as success, even though the tests were unable to execute due to the above failure.  If you do not go to the Build logs you may miss this error.
 
+
+# Test Environment
+
+- MacOS 10.15.6
+- iOS 13.7 on iPhone 11 Pro
+- Xcode 11.7 and 12.0.1
